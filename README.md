@@ -1,7 +1,8 @@
 <h1 align="center">Lógica de programación 1, con PSeint</h1>
+![pseint-logo](https://github.com/mrandrespimiento/logica-programacion-1/assets/58539878/b59e879c-7220-4ae6-a084-b5d7dcceea96)
 
  <p align="left">
-   <img src="[https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://github.com/mrandrespimiento/logica-programacion-1/assets/58539878/21b52743-5da7-4edf-810c-2f341bc581c5)">
+   
    </p>
 
 <h2 align="center">Instrucciones:</h2>
