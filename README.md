@@ -1,5 +1,5 @@
 <h1 align="center">Lógica de programación 1, con PSeint</h1>
-<img src="https://github.com/mrandrespimiento/logica-programacion-1/assets/58539878/b59e879c-7220-4ae6-a084-b5d7dcceea9">
+<img src="[https://github.com/mrandrespimiento/logica-programacion-1/assets/58539878/b59e879c-7220-4ae6-a084-b5d7dcceea9](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpensamientoideal.wordpress.com%2Fpseint%2F&psig=AOvVaw18Jqmfw8a-vOdpGnGwDEyF&ust=1701878581096000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDTlPTV-IIDFQAAAAAdAAAAABAE)">
 
  <p align="left">
    
