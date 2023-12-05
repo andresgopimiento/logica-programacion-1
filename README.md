@@ -1,5 +1,5 @@
 <h1 align="center">Lógica de programación 1, con PSeint</h1>
-![pseint-logo](https://github.com/mrandrespimiento/logica-programacion-1/assets/58539878/b59e879c-7220-4ae6-a084-b5d7dcceea96)
+<img href="https://github.com/mrandrespimiento/logica-programacion-1/assets/58539878/b59e879c-7220-4ae6-a084-b5d7dcceea9">
 
  <p align="left">
    
