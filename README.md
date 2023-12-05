@@ -1,5 +1,5 @@
 <h1 align="center">Lógica de programación 1, con PSeint</h1>
-<img align="center" src="https://pensamientoideal.files.wordpress.com/2014/06/pseint-logo.png">
+<img src="https://pensamientoideal.files.wordpress.com/2014/06/pseint-logo.png">
 
  <p align="left">
    
